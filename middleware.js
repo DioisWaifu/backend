@@ -1,4 +1,3 @@
-
 const jwt = require('jsonwebtoken'); //módulo NPM
 const config = require('./config.js'); //ficheiro de configuração
 
